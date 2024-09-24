@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on exciting web projects, focusing on building dynamic, responsive, and user-centric websites.  <br>👯 I’m looking to collaborate on innovative projects that push boundaries and challenge both of us to grow as developers.  <br>🌱 I’m currently learning and experimenting with modern web technologies like React, Next.js, and TypeScript to enhance my frontend development skills.  <br>💬 Ask me about anything related to HTML, CSS, JavaScript,FIGMA and relevant frameworks!  <br>⚡ Fun fact: I love solving UI/UX puzzles and making the web more accessible to everyone.<br>
+🔭 I’m currently working on exciting web projects, focusing on building dynamic, responsive, and user-centric websites.  <br>👯 I’m looking to collaborate on innovative projects that push boundaries and challenge both of us to grow as developers.  <br>🌱 I’m currently learning and experimenting with modern web technologies.  <br>💬 Ask me about anything related to HTML, CSS, JavaScript,FIGMA and relevant frameworks!  <br>⚡ Fun fact: I love solving UI/UX puzzles and making the web more accessible to everyone.<br>
 
 
 ## 🌐 Socials:
