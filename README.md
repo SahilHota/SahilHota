@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on exciting web projects, focusing on building dynamic, responsive, and user-centric websites.  <br>👯 I’m looking to collaborate on innovative projects that push boundaries and challenge both of us to grow as developers.  <br>🌱 I’m currently learning and experimenting with modern web technologies.  <br>💬 Ask me about anything related to HTML, CSS, JavaScript,FIGMA and relevant frameworks!  <br>⚡ Fun fact: I love solving UI/UX puzzles and making the web more accessible to everyone.<br>
+🔭 I’m currently working on exciting web projects, focusing on building dynamic, responsive, and user-centric websites.  <br>👯 I’m looking to collaborate on innovative projects that push boundaries and challenge both of us to grow as developers.  <br>🌱 I’m currently learning and experimenting with modern web technologies.  <br>💬 Ask me about anything related to HTML, CSS, JavaScript,FIGMA and relevant frameworks!  <br>⚡ Fun fact: I love solving UI/UX puzzles and making the web more accessible to everyone.<br><br>
+
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 <br><br>
 
